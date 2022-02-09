@@ -1,0 +1,16 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jhksuh/web220207.git
+git push -u origin main
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+
+https://github.com/papasmf1/web220207.git
+
+https://ko.reactjs.org/tutorial/tutorial.html
+
+https://papasmf.blogspot.com/
